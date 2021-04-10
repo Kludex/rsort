@@ -34,15 +34,11 @@ Usage: rsort [OPTIONS] COMMAND [ARGS]...
   Sort requirements with ease!
 
 Options:
-  --files TEXT          Requirements file to be sorted
-  --check               Only check if needs to be sorted  [default: False]
-  --diff                Only changes to be made  [default: False]
-  --version
-  --install-completion  Install completion for the current shell.
-  --show-completion     Show completion for the current shell, to copy it or
-                        customize the installation.
-
-  --help                Show this message and exit.
+  --files TEXT  Requirements file to be sorted.
+  --check       Only check if needs to be sorted.  [default: False]
+  --diff        Only changes to be made.  [default: False]
+  --version     Show rsort version.
+  --help        Show this message and exit.
 ```
 
 # TODO
