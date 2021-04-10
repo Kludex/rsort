@@ -8,7 +8,7 @@ from typer import Exit, Option, Typer, echo
 from rsort import __version__
 from rsort.requirements import Requirements
 
-app = Typer(invoke_without_command=True)
+app = Typer(invoke_without_command=True, help="Sort requirements with ease!")
 
 
 def version_callback(value: bool):
