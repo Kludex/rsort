@@ -15,6 +15,10 @@
     <img src="https://img.shields.io/github/license/Kludex/rsort">
 </p>
 
+Sort Python requirements with ease! :tada:
+
+Currently supporting `requirements.txt` and `pyproject.toml` for poetry only.
+
 ## Installation
 
 ``` bash
