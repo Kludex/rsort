@@ -41,6 +41,10 @@ Options:
   --help                Show this message and exit.
 ```
 
+# TODO
+
+- [ ] Add tests
+
 ## License
 
 This project is licensed under the terms of the MIT license.
