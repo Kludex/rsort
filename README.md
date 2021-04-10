@@ -19,6 +19,8 @@ Sort Python requirements with ease! :tada:
 
 Currently supporting `requirements.txt` and `pyproject.toml` for poetry only.
 
+Idea inspired on [sort-requirements](https://github.com/rehandalal/sort-requirements) and name on [isort](https://isort.readthedocs.io/en/latest/).
+
 ## Installation
 
 ``` bash
